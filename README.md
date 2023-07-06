@@ -1,18 +1,49 @@
-## Getting Started
+<h1 align="center">
+POO Java
+</h1>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+<p align="center">
+  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="https://github.com/diogorochaa" target="_blank">Author</a>
+</p>
 
-## Folder Structure
+<br>
 
-The workspace contains two folders by default, where:
+## :dart: About
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Esse projeto foi desenvolvido para colocar em pratica as técnicas de POO em Java.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## :rocket: Technologies
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+The following tools were used in this project:
 
-## Dependency Management
+- [Java](https://docs.oracle.com/en/java/)
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## :white_check_mark: Requirements
+
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Java](https://docs.oracle.com/en/java/) installed.
+
+## :checkered_flag: Starting
+
+```bash
+# Clone this project
+$ git clone https://github.com/diogorochaa/poo-java.git
+
+# Access
+$ cd poo-java
+
+```
+
+## :memo: License
+
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+
+Made with :heart: by <a href="https://github.com/diogorochaa" target="_blank">Diogo</a>
+
+&#xa0;
+
+<a href="#top">Back to top</a>
